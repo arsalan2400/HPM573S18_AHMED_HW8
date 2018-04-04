@@ -33,7 +33,7 @@ Changes = Stat.DifferenceStatIndp(
 
 print("The avg reward change... ", Changes.get_mean())
 print("95% PI is...", Changes.get_PI(ALPHA))
-print("The player only plays 10x, avg reward is higher w lower headprob. But this can vary; you can still lose money b/c there's a small amt.")
+print("The player only plays 10x, avg reward is higher w lower headprob. But this can vary; I guess you can still lose money b/c there's a small amt.")
 
 
 ## an answer:
